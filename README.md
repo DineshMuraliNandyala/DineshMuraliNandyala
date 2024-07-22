@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Murali Nandyala</h1>
 <h3 align="center">A passionate Data Science student</h3>
 
-
 - 🔭 I’m currently working on **Pose Estimation Analytics**
 
 - 🌱 I’m currently learning **React, Torch**
